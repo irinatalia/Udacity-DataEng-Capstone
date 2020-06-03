@@ -46,3 +46,7 @@ Include a description of how you would approach the problem differently under th
 If the data was increased by 100x.
 If the pipelines were run on a daily basis by 7am.
 If the database needed to be accessed by 100+ people.
+
+Please refer to the Jupyter notebook for the full documentation including the ETL source code.
+
+[Jupyter notebook](https://github.com/irinatalia/Udacity-DataEng-Capstone/blob/master/Capstone%20Project%20Template.ipynb)
